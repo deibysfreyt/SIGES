@@ -1,0 +1,2 @@
+aquí colocaremos el diseño digital de la base de datos, la Base de Datos SQL
+cualquier recursos que nos ayude a complementar el Sistemas para su funcionamiento
